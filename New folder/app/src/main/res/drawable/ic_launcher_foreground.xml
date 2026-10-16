@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- the sketch: a line with a ring on it -->
+    <path android:strokeColor="#8000D8FF" android:strokeWidth="2" android:pathData="M22,54L86,54" />
+    <path android:fillColor="#0A1A2A" android:strokeColor="#00D8FF" android:strokeWidth="4"
+        android:pathData="M54,36a18,18 0 1,0 0,36a18,18 0 1,0 0,-36z" />
+    <path android:strokeColor="#4000D8FF" android:strokeWidth="2"
+        android:pathData="M54,31a23,23 0 1,0 0,46a23,23 0 1,0 0,-46z" />
+    <path android:fillColor="#00D8FF" android:pathData="M54,48a6,6 0 1,0 0,12a6,6 0 1,0 0,-12z" />
+</vector>
